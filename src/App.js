@@ -38,7 +38,7 @@ function App() {
     <div className="app">
       <h1>Convin AI</h1>
       {!loading &&<Main />}
-      
+      <ClipLoader  loading={loading}  size={50} />
     </div>
   );
 }
