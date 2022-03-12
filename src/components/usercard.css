@@ -1,0 +1,15 @@
+.usercard{
+    width:440px;
+    height:180px;
+    border:solid 5px black;
+    display:flex;
+    padding :20px;
+    margin-bottom: 50px;;
+    margin :50px auto;
+    text-align:left;
+    
+}
+
+.avatar{
+    margin-left: 30px;
+}
